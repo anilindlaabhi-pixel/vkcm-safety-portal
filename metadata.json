@@ -1,0 +1,6 @@
+{
+  "name": "VKCM Smart Safety Management System",
+  "description": "Enterprise coal mine safety management system for Venkatesh Khani Coal Mine (VKCM), Kothagudem Area, The Singareni Collieries Company Limited (SCCL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
